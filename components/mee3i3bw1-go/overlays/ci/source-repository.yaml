@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: mee3i3bw1-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/mee3i3bw1-go
